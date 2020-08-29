@@ -1,3 +1,7 @@
 # infovis
-MM #32 --> https://output.jsbin.com/voxiwol
-MM #34 --> https://output.jsbin.com/darayac
+
+#Makeover Monday
+
+[MM #32] (https://messes.github.io/infovis/w32.html)
+
+[MM #34] (https://messes.github.io/infovis/w34.html)
