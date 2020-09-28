@@ -13,5 +13,5 @@
 ##
 [TP Datos Personales - Mateo Esses](https://messes.github.io/infovis/TPpersonales.html)
 ##
-[Preview TP Datos Personales](https://messes.github.io/infovis/P.DP.Futbol.png)
+[Preview TP Datos Personales](https://messes.github.io/infovis/TP.DP.Futbol.png)
 ##
