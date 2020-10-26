@@ -11,7 +11,7 @@
 ##
 [MM #36 - Calories and Nutrients in Cereals](https://messes.github.io/infovis/w36.html)
 ##
-[TP Datos Personales - Mateo Esses](https://messes.github.com/infovis/TP.Datos.personales.html)
+[TP Datos Personales - Mateo Esses](https://messes.github.io/infovis/TP.Datos.personales.html)
 ##
 [Preview TP Datos Personales](https://messes.github.io/infovis/TP.Preview.png)
 ##
